@@ -12,7 +12,7 @@
 # Steam Код Друзей: "1462200212"
 #
 # Кредит\Credit "Я объединил все моды русской локализации" - "I combined all mods of Russian localization"
-# ©copyright (Зачем я написал не понимаю ._.) {Why did I write this ._.}
+# ©copyright (Зачем я написал не понимаю - Why did I write this XD)
 #
 # Это мой первый Сборник Мод. \ This is my first Mod Collection.
 # 
